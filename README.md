@@ -10,7 +10,7 @@ a powerful and effective email spoofing tool, the perfect tool for advanced test
 | Kali           | 2022.4             |
  
 # Social media links
-the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
+the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and the
 <a href="https://t.me/EBLISTOOLScommunity">telegram channel</a>
  
 # What can this tool do ?
