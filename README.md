@@ -1,8 +1,8 @@
-# WIFI-ATK (wifi attacks tool kit)
+# E-SPOOFER
 <img alt="wifi-atk" src=".github/icons/wifitool.png" height="40%" width="100%" />
 # About
-<b>a powerful and effective tool for attacking Wi-Fi networks and it supports many different attacks</b>
-This tool depends on some configuration in the Kali system like aircrack and netdiscover
+<b>a powerful and effective email spoofing tool</b>
+the perfect tool for advanced testers, this tool use powerful spoofing module's to skip any protect service
 
 # SYSTEM REQUIREMENTS
 | Requirements   | Version            |
