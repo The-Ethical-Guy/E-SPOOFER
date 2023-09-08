@@ -16,12 +16,12 @@ the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and the
 # What can this tool do ?
 
 <ul>
- <li>Man In The Middle Attack</li>
- <li>Network Overload Attack</li>
- <li>Information Disclosure Attack</li>
- <li>WIFI Dos Attack</li>
- <li>Scan By Netdiscover</li>
- <li>Create Fake WIFI Network</li>
+ <li>Spoof any sender name you want</li>
+ <li>Spoof any email you want</li>
+ <li>Send emails to more than one in the same time</li>
+ <li>Send an email you write it manually</li>
+ <li>Turn a HTML file to an email</li>
+ <li>Skip any protect service</li>
  </ul>
 
 # WIFI-ATK how to install and use
