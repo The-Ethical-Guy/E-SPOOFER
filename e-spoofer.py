@@ -79,12 +79,12 @@ signal.signal(signal.SIGINT, handle_exit)
 def print_message(message, color):
     for char in message:
         print("\033[91m\033[1;97m" + char + "\033[0m\033[1;97m", end="", flush=True)
-        time.sleep(0.03)  # تأخير لمدة 0.1 ثانية
-    print()  # طباعة سطر جديد
-    print("\033[34m{}\033[0m".format("https://www.youtube.com/@TheEthicalGuy"))  # طباعة الرسالة الثانية باللون الأزرق
+        time.sleep(0.03)  
+    print()  
+    print("\033[34m{}\033[0m".format("https://www.youtube.com/@TheEthicalGuy"))  
 
 message = "SUBSCRIBE TO MY CHANNEL FOR MORE TOOLS"
-color = "\033[91m\033[1;97m"  # اللون الأحمر 
+color = "\033[91m\033[1;97m"  
 
 print_message(message, color)
 
