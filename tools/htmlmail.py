@@ -101,9 +101,9 @@ def send_email():
         print('Error sending email:', e)
 
 if __name__ == "__main__":
-    # الآن يمكنك استدعاء الدالة send_email() بدلاً من وضع الكود المباشر هنا
+   
     send_email()
 
-# اختبار إذا كان البرنامج مغلقًا بسبب الاستثناء أو تم إغلاقه بشكل صحيح
+
 if not tool_closed:
     input("Press Enter to exit...")
