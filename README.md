@@ -52,4 +52,4 @@ python3 e-spoofer.py
 ```
 
 # Screenshot
-<img alt="wifi-atk" src=".github/icons/sc.png" height="40%" width="100%" />
+![](https://files.catbox.moe/5rfvs5.png)
