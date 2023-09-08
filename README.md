@@ -36,7 +36,7 @@ apt install git
 git clone https://github.com/The-Ethical-Guy/E-SPOOFER.git
 ```
 ```
-cd WIFI-ATK
+cd E-SPOOFER
 ```
 
 # How to run the tool
@@ -48,7 +48,7 @@ apt install python3
 pip install requirements.txt
 ```
 ```
-python3 wifi-atk.py
+python3 e-spoofer.py
 ```
 
 # Screenshot
