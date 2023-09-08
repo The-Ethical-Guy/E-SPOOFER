@@ -1,7 +1,7 @@
 # E-SPOOFER
 ![](https://files.catbox.moe/1sjkw8.png)
 # About
-a powerful and effective email spoofing tool, the perfect tool for advanced testers, this tool use powerful spoofing module's to skip any protect service
+<b>a powerful and effective email spoofing tool</b> the perfect tool for advanced testers, this tool use powerful spoofing module's to skip any protect service
 
 # SYSTEM REQUIREMENTS
 | Requirements   | Version            |
