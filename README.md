@@ -11,7 +11,7 @@
  
 # Social media links
 the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and the
-<a href="https://t.me/EBLISTOOLScommunity">telegram channel</a>
+<a href="">telegram channel</a>
  
 # What can this tool do ?
 
